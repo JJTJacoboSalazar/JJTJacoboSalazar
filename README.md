@@ -52,10 +52,6 @@ Me gusta estar al día de las últimas tendencias y novedades en el campo del de
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
 <br/>  
 
 
