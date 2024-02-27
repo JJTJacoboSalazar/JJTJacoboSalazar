@@ -2,11 +2,11 @@
 ### <div align="center">Hola, soy Jacobo </div>  
   
 
-Hola, soy un desarrollador web Full Stack apasionado por la tecnología, la ciencia y la innovación. Lider proactivo, creativo y autodidacta.
+✍️Hola, soy un desarrollador web Full Stack apasionado por la tecnología, la ciencia y la innovación. Lider proactivo, creativo y autodidacta. Buscando nuevos desafíos y oportunidades para crear soluciones web.
 
-Me gusta estar al día de las últimas tendencias y novedades en el campo del desarrollo web. Por eso, estoy siempre dispuesto a aprender nuevas herramientas y técnicas que me ayuden a mejorar mis habilidades y a ofrecer mejores soluciones al cliente.
+🚀Estudiante de Henry, en donde desarrollé mis habilidades como Full Stack developer, mejoré mis habilidades blandas y mi trabajo en equipo
 
-Además de ser desarrollador, he trabajado anteriormente en diseño y en ventas, lo cual me ha proporcionado la capacidad de desarrollar mi creatividad, así como también mis habilidades blandas
+💻Me gusta estar al día de las últimas tendencias y novedades en el campo del desarrollo web. Por eso, estoy siempre dispuesto a aprender nuevas herramientas y técnicas que me ayuden a mejorar mis habilidades y a ofrecer mejores soluciones al cliente.
   
 
 - 🌱Estoy aprendiendo TypeScript  
