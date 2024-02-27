@@ -9,7 +9,9 @@
 💻Me gusta estar al día de las últimas tendencias y novedades en el campo del desarrollo web. Por eso, estoy siempre dispuesto a aprender nuevas herramientas y técnicas que me ayuden a mejorar mis habilidades y a ofrecer mejores soluciones al cliente.
   
 
-- 🌱Estoy aprendiendo TypeScript  
+- 🌱Estoy aprendiendo TypeScript
+
+ 📧 Email: tadeo.jacobo6@gmail.com  
   
 
 <br/>  
