@@ -6,7 +6,7 @@ Hola, soy un desarrollador web Full Stack apasionado por la tecnología, la cien
 
 Me gusta estar al día de las últimas tendencias y novedades en el campo del desarrollo web. Por eso, estoy siempre dispuesto a aprender nuevas herramientas y técnicas que me ayuden a mejorar mis habilidades y a ofrecer mejores soluciones al cliente.
 
-Además de ser desarrollador, he trabajado anteriormente en diseño, costura y en ventas, lo cual me ha proporcionado la capacidad de desarrollar mi creatividad, así como también mis habilidades blandas
+Además de ser desarrollador, he trabajado anteriormente en diseño y en ventas, lo cual me ha proporcionado la capacidad de desarrollar mi creatividad, así como también mis habilidades blandas
   
 
 - 🌱Estoy aprendiendo TypeScript  
