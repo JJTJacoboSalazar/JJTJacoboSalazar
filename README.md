@@ -4,7 +4,7 @@
 
 ✍️Hola, soy un desarrollador web Full Stack apasionado por la tecnología, la ciencia y la innovación. Lider proactivo, creativo y autodidacta. Buscando nuevos desafíos y oportunidades para crear soluciones web.
 
-🚀Estudiante de Henry, en donde desarrollé mis habilidades como Full Stack developer, mejoré mis habilidades blandas y mi trabajo en equipo
+🚀Graduado en Henry, en donde desarrollé mis habilidades como Full Stack developer, mejoré mis habilidades blandas y mi trabajo en equipo
 
 💻Me gusta estar al día de las últimas tendencias y novedades en el campo del desarrollo web. Por eso, estoy siempre dispuesto a aprender nuevas herramientas y técnicas que me ayuden a mejorar mis habilidades y a ofrecer mejores soluciones al cliente.
   
